@@ -15,4 +15,5 @@ while True:
                 print("Haz elejido salir ")
                 break
     except ValueError:
-        print(" No se pueden usar letras porfavor digite el numero que esta en pantallaza")
+        print(" No se pueden usar letras porfavor digite el numero que esta en pantallaza ")
+        print("HOLA")
