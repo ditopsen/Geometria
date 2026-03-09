@@ -45,6 +45,7 @@ def hacer_circulo():
 
 def hacer_cuadrado():
     print("Haciendo Cuadrado")
+    print("Haciendo Cuadrado")
     x = [0, 2, 2, 0]
     y = [0, 0, 2, 2]
 
@@ -54,6 +55,7 @@ def hacer_cuadrado():
 
     plt.title("Cuadrado relleno con matplotlib")
 
+    plt.show()
 def hacer_triangulo():
     fig, ax = plt.subplots()
 
